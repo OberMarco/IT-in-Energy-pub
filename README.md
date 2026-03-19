@@ -11,7 +11,9 @@ Dieses Repository enthält Materialien und Übungen für den Kurs **IT in der En
 
 ```bash
 # Repository klonen
-git clone <repo-url>
+git clone https://github.com/OberMarco/IT-in-Energy-pub.git
+git clone gh repo clone OberMarco/IT-in-Energy-pub
+git clone git@github.com:OberMarco/IT-in-Energy-pub.git
 cd 5_IT-in-Energy
 
 # Conda-Umgebung erstellen und aktivieren
