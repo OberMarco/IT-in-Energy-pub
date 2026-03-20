@@ -1,6 +1,6 @@
 # IT in der Energiewirtschaft
 
-Dieses Repository enthält Materialien und Übungen für den Kurs **IT in der Energiewirtschaft**.
+Dieses Repository enthält Materialien und Übungen für den Kurs [**IT in der Energiewirtschaft**](https://obermarco.github.io/IT-in-Energy/#1).
 
 ## Voraussetzungen
 
@@ -36,8 +36,7 @@ code 00_Test_Installation.ipynb
 ├── 4_Plots_in_Python/                 ← Übung 4: Visualisierung
 ├── 5_Optimimierung/                   ← Übung 5: Linopy & PyPSA
 ├── 6_Regression/                      ← Übung 6: Lineare Regression
-├── 7_Praesentation/                   ← Präsentationsfolien
-├── docs/                              ← GitHub Pages liest nur hier
+
 │
 ├── 00_Test_Installation.ipynb         ← Installationstest 
 ├── README.md                          ← Diese Datei
