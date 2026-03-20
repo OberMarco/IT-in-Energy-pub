@@ -26,7 +26,7 @@ conda activate environment_it_energy
 code 00_Test_Installation.ipynb
 ```
 
-# Struktur
+# Ordnerstruktur
 
 ```
 5_IT-in-Energy/
