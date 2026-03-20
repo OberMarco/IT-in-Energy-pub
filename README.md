@@ -37,7 +37,6 @@ code 00_Test_Installation.ipynb
 ├── 4_Plots_in_Python/                 ← Übung 4: Visualisierung
 ├── 5_Optimimierung/                   ← Übung 5: Linopy & PyPSA
 ├── 6_Regression/                      ← Übung 6: Lineare Regression
-
 │
 ├── 00_Test_Installation.ipynb         ← Installationstest 
 ├── README.md                          ← Diese Datei
