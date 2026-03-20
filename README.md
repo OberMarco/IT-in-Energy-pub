@@ -22,6 +22,7 @@ conda activate environment_it_energy
 ```
 
 # Installation testen
+```bash
 code 00_Test_Installation.ipynb
 ```
 
@@ -41,6 +42,5 @@ code 00_Test_Installation.ipynb
 ├── 00_Test_Installation.ipynb         ← Installationstest 
 ├── README.md                          ← Diese Datei
 └── environment.yml                    ← Conda-Umgebungsdefinition
-
 
 ```
