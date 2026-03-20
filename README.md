@@ -18,7 +18,8 @@ cd 5_IT-in-Energy
 
 # Conda-Umgebung erstellen und aktivieren
 conda env create -f environment.yml
-conda activate it-in-energy
+conda activate environment_it_energy
+```
 
 # Installation testen
 code 00_Test_Installation.ipynb

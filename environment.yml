@@ -7,12 +7,12 @@
 #   conda env create -f environment.yml
 #
 # Aktivieren:
-#   conda activate energiewirtschaft
+#   conda activate environment_it_energy
 #
 # Aktualisieren:
 #   conda env update -f environment.yml --prune
 
-name: energiewirtschaft
+name: environment_it_energy
 
 channels:
   - conda-forge
