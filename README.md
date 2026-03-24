@@ -1,6 +1,6 @@
 # IT in der Energiewirtschaft
 
-Dieses Repository enthält Materialien und Übungen für den Kurs [**IT in der Energiewirtschaft**](https://obermarco.github.io/IT-in-Energy/#1).
+Dieses Repository enthält Materialien und Übungen für den Kurs [**IT in der Energiewirtschaft (Präsentationslink)**](https://obermarco.github.io/IT-in-Energy/#1).
 
 ## Voraussetzungen
 
@@ -8,7 +8,7 @@ Dieses Repository enthält Materialien und Übungen für den Kurs [**IT in der E
 - Git
 - VScode
 
-## Installation für private Übungen
+## Installation für private Laptops
 
 ### Windows
 
