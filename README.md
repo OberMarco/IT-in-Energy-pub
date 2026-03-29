@@ -84,3 +84,16 @@ code 00_Test_Installation.ipynb
 └── environment.yml                    ← Conda-Umgebungsdefinition
 
 ```
+# Kurs Links
+- https://obermarco.github.io/IT-in-Energy/#1
+- [Präsentation](https://obermarco.github.io/IT-in-Energy/#1)
+- [GitHub Repository](https://github.com/OberMarco/IT-in-Energy-pub)
+- [Zoom Chatgruppe](https://zoom.us/launch/chat/v2/eyJzaWQiOiIyMDhkZDUyYTRiYjU0N2NjYTFiYzQyNTFmMTVjZWJmN0Bjb25mZXJlbmNlLnhtcHAuem9vbS51cyJ9)
+
+
+# Weiterführende Links
+- [Python Cheat Sheet - Datacamp](https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet)
+- [Python Cheat Sheet - Real Python](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://static.realpython.com/python-cheatsheet.pdf&ved=2ahUKEwiTy8_4u7WTAxXVg_0HHfV2C4IQFnoECAQQAQ&usg=AOvVaw2bnN9G-dXHTPM2Ew0bQ5oP)
+- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Git Introduction - GitHub](https://youtu.be/r8jQ9hVA2qs?is=CHpTvwwLR2gdOSxL)
+
