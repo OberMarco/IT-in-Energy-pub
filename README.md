@@ -50,9 +50,8 @@ git clone gh repo clone OberMarco/IT-in-Energy-pub # Alternative mit GitHub CLI
 git clone git@github.com:OberMarco/IT-in-Energy-pub.git # Alternative mit SSH
 cd 5_IT-in-Energy # in das geklonte Repository wechseln
 
-# Conda-Umgebung erstellen und aktivieren
+# Conda-Umgebung erstellen
 conda env create -f environment.yml 
-conda activate environment_it_energy
 ```
 
 ### In VSCode öffnen
