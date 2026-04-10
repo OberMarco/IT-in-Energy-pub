@@ -4,7 +4,7 @@ Dieses Repository enthält Materialien und Übungen für den Kurs [**IT in der E
 
 ## Voraussetzungen
 
-- [Anaconda](https://www.anaconda.com/) oder [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
+- Anaconda oder Miniconda
 - Git
 - VScode
 
