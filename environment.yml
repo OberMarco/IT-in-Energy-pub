@@ -57,4 +57,5 @@ dependencies:
   # Pip-only Pakete (falls conda-forge nicht reicht)
   - pip
   - pip:
+      - pydeck>=0.8,<1.0  # kompatibel mit map_styles
       - kaleido        # Plotly Export als statische Bilder (PNG/PDF)
