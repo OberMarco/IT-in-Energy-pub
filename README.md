@@ -93,6 +93,7 @@ code 00_Test_Installation.ipynb
 # Weiterführende Links
 - [Python Cheat Sheet - Datacamp](https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet)
 - [Python Cheat Sheet - Real Python](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://static.realpython.com/python-cheatsheet.pdf&ved=2ahUKEwiTy8_4u7WTAxXVg_0HHfV2C4IQFnoECAQQAQ&usg=AOvVaw2bnN9G-dXHTPM2Ew0bQ5oP)
+- [Pandas Cheat Sheet](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf&ved=2ahUKEwjSh-K1vfqTAxX5VvEDHbOtL50QFnoECAwQAQ&usg=AOvVaw2Z0H-ttrFe-41ta-Cnkf55)
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Git Introduction - GitHub](https://youtu.be/r8jQ9hVA2qs?is=CHpTvwwLR2gdOSxL)
 
